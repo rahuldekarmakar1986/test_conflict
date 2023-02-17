@@ -1,3 +1,3 @@
-# test_conflict branch2
+# test_conflict
 
 
